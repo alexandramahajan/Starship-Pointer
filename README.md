@@ -8,4 +8,6 @@ This project uses a gradient-boosted decision tree classifier to predict the lik
 
 With ~95% classification accuracy on validation data, the Starship Pointer enables rapid assessment of nearby planetary systems—whether for research, education, or space-themed exploration tools.
 
+Future goals for the Starship Pointer include using an updated NASA exoplanets dataset and expanding the parameters the model is trained on. 
+
 cleaned_data_5250.csv comes from the 'NASA Exoplanets' Dataset available on Kaggle (https://www.kaggle.com/datasets/adityamishraml/nasaexoplanets). 
