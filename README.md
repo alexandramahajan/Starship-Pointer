@@ -1,6 +1,6 @@
 # Starship-Pointer
 
-A machine learning co-pilot for your next planetary adventure. 
+🚀 A machine learning co-pilot for your next planetary adventure. 
 
 The Starship Pointer is a machine learning tool designed to classify exoplanets based on key astrophysical features, using a supervised learning model trained on data from NASA's Exoplanet Archive.
 
